@@ -1,3 +1,3 @@
-puts "hello, #{ARGV.first}!"
+puts "hellooooo, #{ARGV.first}!"
 # will not work because i dont have ruby installed
 # so just to have a file 
