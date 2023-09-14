@@ -1,7 +1,4 @@
-#Default is world
-#Author: Luca Raichle (raichle001@gannon.edu)
+puts "Whats your name"
+my_name = gets.strip
 
-name = ARGV.first || "World"
-puts "hellooooo, #{name}!"
-# will not work because i dont have ruby installed
-# so just to have a file 
+puts "Hello, #{my_name}"!
